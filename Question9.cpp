@@ -1,3 +1,4 @@
+// Maximum of three numbers
 #include<iostream>
 #include<algorithm>
 using namespace std;
