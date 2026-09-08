@@ -5,6 +5,7 @@ using namespace std;
 int main(){
     cout<<"Enter Array Size: ";
     int n; cin>>n;
+    cout<<"Enter Array Elements: ";
     vector<int> arr(n);
     for(int i=0; i<n; i++){
         cin>>arr[i];
