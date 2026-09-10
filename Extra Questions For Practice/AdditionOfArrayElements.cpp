@@ -15,4 +15,5 @@ int main(){
     }
     cout<<"Sum of Elements: "<<sum; 
     return 0;
-}
+}   // can we use char to add (yes)
+    // 
